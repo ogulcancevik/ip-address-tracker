@@ -47,7 +47,7 @@ To deploy your application to a live server, you can follow these steps:
 3. Configure the necessary settings on your server and deploy your application.
 
 ## LIVE DEMO
-[https://profound-churros-7e3702.netlify.app/] (https://profound-churros-7e3702.netlify.app/) 
+[https://profound-churros-7e3702.netlify.app/](https://profound-churros-7e3702.netlify.app/) 
 
 ## License
 
