@@ -2,6 +2,15 @@
 
 This is a Vue.js application that allows you to track IP addresses and display them on a map. The application uses the ipgeolocation.io API to retrieve the geographical locations of IP addresses and displays them on a Leaflet map.
 
+## Tech Stack
+
+- Vue.js
+- Leaflet (for the map)
+- Tailwind CSS (for styling)
+- Eslint (for linting)
+- Prettier (for code formatting)
+- Vite (for development server and build tool)
+
 ## Installation
 
 1. Clone this project:
