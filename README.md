@@ -8,7 +8,7 @@ This is a Vue.js application that allows you to track IP addresses and display t
 
    ```bash
    git clone <repository-url>
-   cd ip-tracker-app
+   cd ip-address-tracker
    ```
 
 2. Install the required dependencies:
