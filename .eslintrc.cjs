@@ -12,6 +12,7 @@ module.exports = {
     'vue/multi-word-component-names': 'off',
     'prettier/prettier': ['error'],
     'vue/no-reserved-component-names': 'off',
+    'vue/attribute-hyphenation': 'off',
     'no-undef': 'off'
   }
 }
